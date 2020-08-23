@@ -16,8 +16,6 @@ Easiest way to get in touch with me is through LinkedIn or Email. Feel free to w
 [<img alt="arocketman | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img alt="arocketman | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
-
 ---
 
 ### Latest Articles - technicals 💻
