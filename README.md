@@ -8,11 +8,16 @@ Currently working at Unicredit bank, previously employed at Vodafone.
 
 I love contributing to open source projects, eat delicious food, drink good wine and watch memorable movies.
 
-### Get in touch
+### Getting in touch 📫
 
 [<img align="left" alt="arocketman | mail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />][mail]
 [<img align="left" alt="arocketman | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="arocketman | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+Easiest way to get in touch with me is through LinkedIn or Email. Feel free to write me!
+
 
 ### Latest Articles - technicals 💻
 
@@ -24,13 +29,9 @@ I love contributing to open source projects, eat delicious food, drink good wine
 ### Latest projects and contributions (sampled) 🛠
 
 * 22/07/20 - Publish a web video series on Apache Airflow - [From zero to hero](https://www.youtube.com/watch?v=20HDFbYyAY0&list=PLcoE64orFoVsyzbvfgiY5iNKo30fJ4IWm)
-
 * 14/04/20 - Add support for NLP/NLU framework [SpaCy](https://spacy.io/) to machine learning lifecycle platform [Mlflow](https://www.mlflow.org/) - [Github PR](https://github.com/mlflow/mlflow/pull/2242)
-
 * 25/11/18 - Learn to use Spring OAuth2 - [Tutorial and github repo](https://github.com/arocketman/Spring-oauth2-jpa-example)
-
 * 14/12/17 - Easy to use Graph Library with Java and VisFx  [Github repo with examples](https://github.com/arocketman/VisFX)
-
 * 25/08/16 -  Fully working CPU-Memory MC68000 emulator - [Github repo with examples](https://github.com/arocketman/CPUemu)
 
 
