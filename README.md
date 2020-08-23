@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software engineer specializing in designing architectures and writing software to deploy highly available and scalable ML/AI services.
+I am a **software engineer** specializing in designing architectures and writing software to deploy **highly available and scalable ML/AI services**.
 
 When I have some spare time, I enjoy writing about Software architecture, Artificial Intelligence and Cloud computing.
 
@@ -8,14 +8,17 @@ Currently working at Unicredit bank, previously employed at Vodafone.
 
 I love contributing to open source projects, eat delicious food, drink good wine and watch memorable movies.
 
+### Get in touch
+
+[<img align="left" alt="arocketman | mail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />][mail]
+[<img align="left" alt="arocketman | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="arocketman | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 ### Latest Articles - technicals 💻
 
 * [26/07/20 - Orchestrating machine learning experiments for MLOps using Apache Airflow](https://medium.com/analytics-vidhya/orchestrating-machine-learning-experiments-for-mlops-using-apache-airflow-dcbc0bab3801)
-
 * [22/07/20 - Distributed task queue with Python using Celery and FastAPI](https://medium.com/@arocketman/distributed-task-queue-with-python-using-celery-and-fastapi-4cd1ad112c0f)
-
 * [20/07/20 - The Python logging cheatsheet. Easy and fast way to get logging done in Python](https://medium.com/analytics-vidhya/the-python-logging-cheatsheet-easy-and-fast-way-to-get-logging-done-in-python-aa3cb99ecfe8)
-
 * [11/10/19 - Creating a PIP package on a private repository using setuptools](https://medium.com/@arocketman/creating-a-pip-package-on-a-private-repository-using-setuptools-fff608471e39)
 
 ### Latest projects and contributions (sampled) 🛠
@@ -40,6 +43,9 @@ I love contributing to open source projects, eat delicious food, drink good wine
 
 ![arocketman's github stats](https://github-readme-stats.vercel.app/api?username=arocketman&hide=contribs&theme=vue&show_icons=true)
 
+[mail]: mailto:and.capuano@gmail.com
+[youtube]: https://www.youtube.com/channel/UCORDRYVxNkc-8wo00V2sEkA
+[linkedin]: https://www.linkedin.com/in/and-capuano/
 
 <!--
 **arocketman/arocketman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
