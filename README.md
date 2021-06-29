@@ -20,6 +20,7 @@ Easiest way to get in touch with me is through LinkedIn or Email. Feel free to w
 
 ### Latest Articles - technicals 💻
 
+* [29/06/21 - Airflow for non-batch, non-scheduled workloads](https://arocketman.medium.com/airflow-for-non-batch-non-scheduled-workloads-514b7503aa66)
 * [26/07/20 - Orchestrating machine learning experiments for MLOps using Apache Airflow](https://medium.com/analytics-vidhya/orchestrating-machine-learning-experiments-for-mlops-using-apache-airflow-dcbc0bab3801)
 * [22/07/20 - Distributed task queue with Python using Celery and FastAPI](https://medium.com/@arocketman/distributed-task-queue-with-python-using-celery-and-fastapi-4cd1ad112c0f)
 * [20/07/20 - The Python logging cheatsheet. Easy and fast way to get logging done in Python](https://medium.com/analytics-vidhya/the-python-logging-cheatsheet-easy-and-fast-way-to-get-logging-done-in-python-aa3cb99ecfe8)
