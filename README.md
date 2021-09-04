@@ -20,14 +20,11 @@ Easiest way to get in touch with me is through LinkedIn or Email. Feel free to w
 
 ### Latest Articles - technicals 💻
 
-* [16/07/21 - The ‘what if’ technique, a simple tool to become a better software engineer](https://medium.com/analytics-vidhya/the-what-if-technique-a-simple-tool-to-become-a-better-software-engineer-d65dc90623ec)
 * [29/06/21 - Airflow for non-batch, non-scheduled workloads](https://arocketman.medium.com/airflow-for-non-batch-non-scheduled-workloads-514b7503aa66)
 * [26/07/20 - Orchestrating machine learning experiments for MLOps using Apache Airflow](https://medium.com/analytics-vidhya/orchestrating-machine-learning-experiments-for-mlops-using-apache-airflow-dcbc0bab3801)
 * [22/07/20 - Distributed task queue with Python using Celery and FastAPI](https://medium.com/@arocketman/distributed-task-queue-with-python-using-celery-and-fastapi-4cd1ad112c0f)
 * [20/07/20 - The Python logging cheatsheet. Easy and fast way to get logging done in Python](https://medium.com/analytics-vidhya/the-python-logging-cheatsheet-easy-and-fast-way-to-get-logging-done-in-python-aa3cb99ecfe8)
 * [11/10/19 - Creating a PIP package on a private repository using setuptools](https://medium.com/@arocketman/creating-a-pip-package-on-a-private-repository-using-setuptools-fff608471e39)
-
----
 
 ### Latest projects and contributions (sampled) 🛠
 
@@ -37,10 +34,9 @@ Easiest way to get in touch with me is through LinkedIn or Email. Feel free to w
 * 14/12/17 - Easy to use Graph Library with Java and VisFx  [Github repo with examples](https://github.com/arocketman/VisFX)
 * 25/08/16 -  Fully working CPU-Memory MC68000 emulator - [Github repo with examples](https://github.com/arocketman/CPUemu)
 
----
-
 ### Latest Articles - misc ⚡
 
+* [16/07/21 - The ‘what if’ technique, a simple tool to become a better software engineer](https://medium.com/analytics-vidhya/the-what-if-technique-a-simple-tool-to-become-a-better-software-engineer-d65dc90623ec)
 * [27/04/19 - Leveraging UiPath to find your next home to rent](https://medium.com/@arocketman/leveraging-uipath-to-find-your-next-home-to-rent-337ed8a13c9e)
 
 ---
