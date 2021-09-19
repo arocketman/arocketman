@@ -4,7 +4,7 @@ I am a **software engineer** specializing in designing architectures and writing
 
 When I have some spare time, I enjoy writing about Software architecture, Artificial Intelligence and Cloud computing.
 
-Currently working at Unicredit bank, previously employed at Vodafone.
+Currently working at Spotify, previously employed at Vodafone and Unicredit bank.
 
 I love contributing to open source projects, eat delicious food, drink good wine and watch memorable movies.
 
